@@ -1,0 +1,6 @@
+{
+  "name": "O‘ZIMIZ UCHUN | Piter Taxi",
+  "description": "Sankt-Peterburgdagi o‘zbek va Markaziy Osiyo hamjamiyati uchun to‘liq taksi web platformasi, Gemini AI dispatch va boshqaruv tizimi, Telegram Bot integratsiyasi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
